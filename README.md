@@ -2,4 +2,4 @@
 - Python Dev
 - 🇩🇪
 
-[![](https://visitcount.itsvg.in/api?id=NiiV3AU&label=Profile%20Views&color=12&icon=3&pretty=true)](https://github.com/NiiV3AU)
+![](https://komarev.com/ghpvc/?username=NiiV3AU&base=112&label=Profile+Views&color=blueviolet)
