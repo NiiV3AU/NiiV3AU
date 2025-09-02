@@ -1,4 +1,4 @@
-### Hi, I'm [NiiV3AU](https://niiv3au.github.io),
+### Hi, I'm [NiiV3AU](https://niveau.pages.dev),
 - Python Dev
 - 🇩🇪
 
